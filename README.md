@@ -1,5 +1,5 @@
 Hello, I’m Deepthi D'Souza 
-- I'm a Data Science grad student at University at Buffalo
+- I'm a Data Science graduate from University at Buffalo
 - I have over 4 years of industry experience in Data Science and Data Engineering
 
 - In this repository I have added projects I have worked during my master's degree coursework and my personal projects.
